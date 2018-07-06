@@ -1,0 +1,23 @@
+{
+    "name": "aten",
+    "version": "0.1.0",
+    "main": "main.js",
+    "license": "BSD-3-Clause",
+    "scripts": {
+        "example": "node example.js"
+    },
+    "devDependencies": {
+        "serialport": "^6.2.1",
+        "prompt": "^1.0.0"
+    },
+    "keywords": [
+        "javascript",
+        "aten",
+        "switch",
+        "hdmi"
+    ],
+    "author" : {
+        "name" : "antonino visalli",
+        "email" : "antonino.visalli@gmail.com"
+    }
+}
